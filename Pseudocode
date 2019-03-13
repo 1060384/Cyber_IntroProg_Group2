@@ -1,0 +1,22 @@
+Start
+
+Define sumOfAll variable
+Define input1 variable
+Define input2 variable
+Define sumOfAll variable
+Define remainder variable
+
+Collect input1
+Collect input2
+
+Set sumOfAll = 0
+Set sumOfAll = input1 * input2
+Set sumOfAll = sumOfAll + (input1 + input2)
+Set sumOfAll = sumOfAll + (input1 - input2)
+Set sumOfAll = sumOfAll + (input1 / input2)
+Display sumOfAll
+
+Set remainder = sumOfAll mod 0
+if remainder > 0 display remainder
+
+End
